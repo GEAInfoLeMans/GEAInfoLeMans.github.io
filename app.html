@@ -26,6 +26,18 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+
+	<script>
+		function myFunction() {
+			console.log("ici");
+			var x=document.getElementById("fname");
+			document.getElementById("wp").href="http://gea17-info/wp"+x.value+"/";
+			document.getElementById("lime").href="http://gea17-info/limedb"+x.value+"/";
+			document.getElementById("wpimg").src="https://s.w.org/images/backgrounds/wordpress-bg-medblue.png";
+			document.getElementById("limeimg").src="https://camo.githubusercontent.com/501daf06b5add2c579fa16769c70ffd6e22e483e/68747470733a2f2f7777772e6c696d657375727665792e6f72672f696d616765732f6c6f676f732f6c6f676f5f6d61696e2e706e67";
+
+		}
+	</script>
   </head>
 
   <body>
@@ -57,7 +69,7 @@
 		    <div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 centered">
-						<h1>Première année</h1>
+						<h1>Vos applications à l'IUT</h1>
 
 					</div><!-- /col-lg-8 -->
 				</div><!-- /row -->
@@ -65,38 +77,24 @@
 		</div>
 	<div class="container pt">
 		<div class="row mt centered">
+			<b>Entrez votre identifiant (voir UMtice) :</b><input type="text" id="fname" onkeyup="myFunction()"><br /><br /><br />
 			<div class="col-lg-4">
-				<a class="zoom green" href="NavigENT"><img class="img-responsive" src="logo/ent.jpg" alt="" /></a>
-				<p>ENT</p>
-			</div>
-			<div class="col-lg-4">
-				<a class="zoom green" href="Windows7Html"><img class="img-responsive" src="logo/windows7.png" alt="" /></a>
-				<p>Windows 7</p>
+				<a class="zoom green" href="#" id="wp"><img class="img-responsive" id="wpimg" src="http://www.monsieurnov.net/wp-content/uploads/NPA-point-dinterrogation.jpg" alt="" /></a>
+				<p>WordPress</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="Texteur"><img class="img-responsive" src="logo/Word2016.png" alt="" /></a>
-				<p>Word Office 2016</p>
+				<a class="zoom green" href="#" id ="lime"><img class="img-responsive" id="limeimg" src="http://www.monsieurnov.net/wp-content/uploads/NPA-point-dinterrogation.jpg" alt="" /></a>
+				<p>LimeSurvey</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="Tableur"><img class="img-responsive" src="http://pmtic.net/sites/default/files/filemanager/images/creation/excel/excel.png" alt="" /></a>
-				<p>Excel S2</p>
+				<a class="zoom green" href="#"><img class="img-responsive" src="http://www.monsieurnov.net/wp-content/uploads/NPA-point-dinterrogation.jpg" alt="" /></a>
+				<p>Siberian : en cours d'installation...</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="Webmail"><img class="img-responsive" src="https://www.netissime.com/file/2014/05/pagewebmail.png" alt="" /></a>
-				<p>Webmail</p>
+				<a class="zoom green" href="#"><img class="img-responsive" src="http://www.monsieurnov.net/wp-content/uploads/NPA-point-dinterrogation.jpg" alt="" /></a>
+				<p>Dolibarr : en cours d'installation...</p>
 			</div>
-      			<div class="col-lg-4">
-				<a class="zoom green" href="canva"><center><img class="img-responsive" src="https://www.canva.com/photo-editor/images/canva_logo.png" alt="" /></center></a>
-				<p>Infographie : Canva</p>
-			</div>
-			<div class="col-lg-4">
-				<a class="zoom green" href="powerpoint"><center><img class="img-responsive" src="https://lh4.ggpht.com/2T6WgtnsITUqVRZe-PmK_eopjqd_TjdbP7YhjIakzPgMuWoXDKLaZ-RCRK-6Hg7rWQ=w300" alt="" /></center></a>
-				<p>Powerpoint</p>
-			</div>
-			<!---<div class="col-lg-4">
-				<a class="zoom green" href="work01.html"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" alt="" /></a>
-				<p>CHIEFS</p>
-			</div>-->
+			
 		</div><!-- /row -->
 	</div><!-- /container -->
 
