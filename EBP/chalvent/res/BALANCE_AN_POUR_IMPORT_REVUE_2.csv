@@ -1,0 +1,73 @@
+Statut;jour;pièce;Document;compte général;Compte auxiliaire;Libellé;Débit;Crédit;Date de l'échéance;Poste analytique;Documents associés
+1;01/09/2017;[AN];;1013;;Capital souscrit-appelé, versé;0;200000;;;False
+1;01/09/2017;[AN];;1061;;Réserve légale;0;15700;;;False
+1;01/09/2017;[AN];;164;;Emprunts auprès des établt.crédit;0;92481;;;False
+1;01/09/2017;[AN];;2131;;Bâtiments;114437;0;;;False
+1;01/09/2017;[AN];;2151;;Installations complexes spécialis.;104425;0;;;False
+1;01/09/2017;[AN];;2182;;Matériel de transport;73023;0;;;False
+1;01/09/2017;[AN];;2183;;Matériel bureau & matériel inform.;59788,5;0;;;False
+1;01/09/2017;[AN];;2813;;Amortis. constructions;0;29258;;;False
+1;01/09/2017;[AN];;2815;;Amortis. install. techniques;0;41018;;;False
+1;01/09/2017;[AN];;28182;;Amortis. matériel de transport;0;24441;;;False
+1;01/09/2017;[AN];;28183;;Amortis. matér.bureau et informat.;0;10323,86;;;False
+1;01/09/2017;[AN];;3211;;Matière consommable (ou groupe) C;9042;0;;;False
+1;01/09/2017;[AN];;371;;Marchandises (ou groupe) A;59310;0;;;False
+1;01/09/2017;[AN];;413;;Clients - effets à recevoir;31385;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;421;;Personnel - rémunérations dues;0;36587;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;425;;Personnel - avances et acomptes;0;760;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;431;;Sécurité sociale;0;5854;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;437;;Autres organismes sociaux;0;2561;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;445621;;TVA sur immobilisations 20% Débits;1360;0;;;False
+1;01/09/2017;[AN];;445661;;TVA déductible 20% Débits;14723;0;;;False
+1;01/09/2017;[AN];;44567;;Crédit de TVA à reporter;15421;0;;;False
+1;01/09/2017;[AN];;445711;;TVA collectée 20% Débits;0;32755;;;False
+1;01/09/2017;[AN];;5115;;Cartes bancaires à encaisser;1629,36;0;;;False
+1;01/09/2017;[AN];;5121;;Banque;4035;0;;;False
+1;01/09/2017;[AN];;5311;;CAISSE;1893;0;;;False
+1;01/09/2017;[AN];;6021;;Achats matieres consomm.(ou gpe) C;18140;0;;;False
+1;01/09/2017;[AN];;6061;;Achats fourn. n/stock. eau, énergie;19117;0;;;False
+1;01/09/2017;[AN];;6071;;Achats de fioul;389745;0;;;False
+1;01/09/2017;[AN];;6097;;R.R.R.obtenus s/ach.de fioul;0;21195;;;False
+1;01/09/2017;[AN];;6122;;Redevances de crédit bail;8195;0;;;False
+1;01/09/2017;[AN];;6132;;Locations immobilières;23099;0;;;False
+1;01/09/2017;[AN];;615;;Entretien et réparations;2222;0;;;False
+1;01/09/2017;[AN];;6161;;Multirisque;3152;0;;;False
+1;01/09/2017;[AN];;6226;;Honoraires;6132;0;;;False
+1;01/09/2017;[AN];;6241;;Transports sur achats;9198;0;;;False
+1;01/09/2017;[AN];;6261;;Frais de télécommunications;7684;0;;;False
+1;01/09/2017;[AN];;627;;Services bancaires et assimilés;1831;0;;;False
+1;01/09/2017;[AN];;641;;Rémunérations du personnel;447285;0;;;False
+1;01/09/2017;[AN];;6451;;Cotisations à l'URSSAF;175621;0;;;False
+1;01/09/2017;[AN];;661;;Charges d'intérêts;17917;0;;;False
+1;01/09/2017;[AN];;665;;Escomptes accordés;1449;0;;;False
+;;;;6811;;Dotation sur immobilisations incorporelles et corporelles;105040,86;0;;;False
+1;01/09/2017;[AN];;706;;Redevances contrat de maintenance;0;468315,86;;;False
+1;01/09/2017;[AN];;7071;;Ventes de fioul;0;766844;;;False
+1;01/09/2017;[AN];;7085;;Ports;0;15080;;;False
+1;01/09/2017;[AN];;7097;;R.R.R.accordés s/vtes de fioul;8754;0;;;False
+1;01/09/2017;[AN];;758;;Produits divers gestion courante;0;645;;;False
+1;01/09/2017;[AN];;411;411AIRLIQ;AIR LIQUIDE;5121;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411ARSEP;ARSEP;4457;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411ARSENA;ARSENALI INDUSTRIE;4791;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411ASTURI;ASTURIENNE PENAMET;4252;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411BLIN;BLIN;4147;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411CITEAU;MADAME FRÉDÉRIQUE CITEAU;1701;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411CLINI1;CLINIQUE HENRI BARBUSSE;6156;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411CPAM93;CPAM DE SEINE SAINT DENIS;6132;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411DUPRAT;SA DUPRAT AUTOMATION;6266;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411IUT93;IUT SAINT DENIS;5574;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411MOVIPAR;MOVIPAR;5135;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411PERRIE;MONSIEUR DOMINIQUE PERRIER;1260;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411ROYER;MONSIEUR NICOLAS ROYER;1260;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411SABP;SABP;3335;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411SCHMIT;MADAME CARINE SCHMITT;1260;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411SOCARE;SARL SOCAREL;4396;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411SOGETU;SA SOGETUBE;4266;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411SOUDA;SARL SOUDAL;5136;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411TONINI;MONSIEUR DANIEL TONINI;1890;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;411;411VORMSI;VORMS IMMOBILIER;5107;0;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;401;401ABCINFO;ABC INFORMATIQUE;0;2321;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;401;401BERTOU;BERTOULLI;0;1196;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;401;401DALL;DALLIER MEDECINE DU TRAVAIL;0;2366;01/09/2017 00:00;;False
+1;01/09/2017;[AN];;401;401SHELL;COMPAGNIE SHELL;0;46994;01/09/2017 00:00;;False
+;;;;;;;1816695,72;1816695,72;;;
